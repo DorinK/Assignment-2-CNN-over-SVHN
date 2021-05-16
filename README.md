@@ -5,4 +5,4 @@ In this assignment, I had to build a convolutional network (CNN) and train it ov
 
 I trained the model once on CPU and once on GPU and compared the training time and the accuracy on both training set and test set.
 
-Grade: 100
+Score: 100
